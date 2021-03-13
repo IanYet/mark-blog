@@ -1,0 +1,19 @@
+{
+  "name": "mark-blog",
+  "version": "1.0.0",
+  "description": "a tool generate html page from markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanYet/mark-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanYet/mark-blog/issues"
+  },
+  "homepage": "https://github.com/IanYet/mark-blog#readme"
+}

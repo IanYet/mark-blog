@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IanYet/mark-blog/issues"
   },
-  "homepage": "https://github.com/IanYet/mark-blog#readme"
+  "homepage": "https://github.com/IanYet/mark-blog#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
 }
